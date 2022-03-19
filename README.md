@@ -1,6 +1,8 @@
 # amazon-searchbook
 TESTES AUTOMATIZADOS EM RUBY
 
+Video rodando: https://www.youtube.com/watch?v=jpD828wl2-E
+
 OBJETIVO: PROCURAR UM LIVRO NA AMAZON BRASIL
 
 SOBRE O PROJETO
@@ -23,3 +25,4 @@ Rode o comando git clone https://github.com/henriquealbertbill/amazon-searchbook
 EXECUTANDO O PROJETO
 Na pasta raiz do projeto rode o comando bundle
 E então rode cucumber e veja a magia acontencendo.
+
